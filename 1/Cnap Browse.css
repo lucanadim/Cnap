@@ -90,6 +90,10 @@ body {
     transform: translate(-50%, -50%) scale(2);
 }
 
+.home:hover {
+    transform: scale(1.1);
+}
+
 .browse {
     position: absolute;
     top: 21.5%;
@@ -113,6 +117,10 @@ body {
     top: 24%;
     left: 5.8%;
     transform: translate(-50%, -50%) scale(2);
+}
+
+.browse:hover {
+    transform: scale(1.1);
 }
 
 .downloads {
@@ -140,6 +148,10 @@ body {
     transform: translate(-50%, -50%) scale(2);
 }
 
+.downloads:hover {
+    transform: scale(1.1);
+}
+
 .projects {
     position: absolute;
     top: 39.5%;
@@ -163,6 +175,10 @@ body {
     top: 42%;
     left: 5.5%;
     transform: translate(-50%, -50%) scale(2);
+}
+
+.projects:hover {
+    transform: scale(1.1);
 }
 
 .settings {
@@ -190,6 +206,10 @@ body {
     transform: translate(-50%, -50%) scale(2);
 }
 
+.settings:hover {
+    transform: scale(1.1);
+}
+
 .profile {
     position: absolute;
     top: 82.5%;
@@ -213,6 +233,10 @@ body {
     top: 85%;
     left: 6%;
     transform: translate(-50%, -50%) scale(1.9);
+}
+
+.profile:hover {
+    transform: scale(1.1);
 }
 
 .home-2 {
